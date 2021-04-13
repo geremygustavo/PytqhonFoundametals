@@ -14,9 +14,8 @@ user = {
 for item in user.items():
     print(item)
 
-
-for key,value in user.items():
-    print(key,value)
+for key, value in user.items():
+    print(key, value)
 
 for item in user.values():
     print(item)

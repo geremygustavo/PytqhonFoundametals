@@ -17,4 +17,4 @@ for image in picture:
             print('*', end='')
         else:
             print(' ', end='')
-    print('') # need a new line after each row
+    print('')  # need a new line after each row
